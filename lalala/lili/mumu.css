@@ -1,0 +1,18 @@
+body{background-image: url('https://wallpapercave.com/wp/wp7504076.jpg');
+
+}
+
+p.title{
+   font-family: Arial;
+   font-style: italic;
+   font-align: center;
+   font-size: 50px;
+}
+
+p.subtitle{
+   font-family: Georgia;
+   font-weight: bold;
+   font-weight: center;
+   font-size: 30px; 
+   color: rgb(202, 160, 211);
+
